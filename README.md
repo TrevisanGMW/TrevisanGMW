@@ -1,15 +1,15 @@
 <h2 align="center">👋 Hello! I'm Guilherme Trevisan</h2>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw?sub_confirmation=1">
-  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?style=for-the-badge"/>
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/>
   </a>
 
   <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw">
-  <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/>
+  <img alt="youtube views" title="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/>
   </a> 
 
   <a href="https://discord.gg/AQ95J6YYZu">
-  <img alt="Discord Server" src="https://img.shields.io/discord/728396699567128606?color=7289DA&label=Discord&logo=discord&logoColor=ffffff&style=flat-square"/>
+  <img alt="discord server" title="Discord Server" src="https://img.shields.io/discord/728396699567128606?color=7289DA&label=DISCORD&logo=discord&style=for-the-badge&labelColor=5773d9&logoColor=ffffff"/>
   </a>
 </p>
 
