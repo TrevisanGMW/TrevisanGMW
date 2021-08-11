@@ -42,7 +42,15 @@ Visitor Badge:
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<br>
+
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
 
 ## 🔧 Test:
-<<img align='right' src='http://github-readme-streak-stats.herokuapp.com?user=TrevisanGMW&theme=radical&sideNums=DD2727' width='200"'>
-<<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' width='200"'>
+<<img align='left' src='http://github-readme-streak-stats.herokuapp.com?user=TrevisanGMW&theme=radical&sideNums=DD2727' height='150"'>
+<<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
