@@ -27,16 +27,16 @@ Visitor Badge:
 
 -->
 
-## 🚀 Quick Stats
+<h2> 🚀 Quick Stats </h2>
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
 
 </div>
 
-## 🔧 Technologies & Tools
+<h2> 🔧 Technologies & Tools </h2>
 <p>
-<!-- Temp -->
+
 <img align='right' src='./media/octocat_bsod.png' width='200"'>
 
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -47,6 +47,7 @@ Visitor Badge:
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+
 <br>
 
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -54,12 +55,6 @@ Visitor Badge:
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
 </p>
-
-## 🔧 Test:
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  <img align='left' src='http://github-readme-streak-stats.herokuapp.com?user=TrevisanGMW&theme=radical&sideNums=DD2727' height='150"'>
-  </pre>
-</details>
