@@ -21,15 +21,15 @@
   </a>
 </p>
 
-<img align='right' src='./media/octocat_bsod.png' width='200"'>
-
-
+ <!--
 Visitor Badge:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=trevisangmw)
 
-
+-->
 
 ## 🔧 Technologies & Tools
+<img align='right' src='./media/octocat_bsod.png' width='200"'>
+
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3A3ATrevisanGMW+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
