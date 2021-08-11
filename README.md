@@ -14,7 +14,7 @@
   <a href="https://github.com/TrevisanGMW">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TrevisanGMW?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Follow"/></a>
 
-  <a href="https://www.buymeacoffee.com/TrevisanGMW"><img alt="buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <!--<a href="https://www.buymeacoffee.com/TrevisanGMW"><img alt="buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
 
   <a href="https://discord.gg/AQ95J6YYZu">
   <img alt="discord server" title="Discord Server" src="https://img.shields.io/discord/728396699567128606?color=7289DA&label=DISCORD&logo=discord&style=for-the-badge&labelColor=5773d9&logoColor=ffffff"/>
