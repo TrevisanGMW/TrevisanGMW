@@ -27,8 +27,12 @@ Visitor Badge:
 
 -->
 
+
+
+
+
 ## 🔧 Technologies & Tools
-<img align='right' src='./media/octocat_bsod.png' width='200"'>
+<!--<img align='right' src='./media/octocat_bsod.png' width='200"'>-->
 
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3A3ATrevisanGMW+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -39,3 +43,6 @@ Visitor Badge:
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
+## 🔧 Test:
+<<img align='right' src='http://github-readme-streak-stats.herokuapp.com?user=TrevisanGMW&theme=radical&sideNums=DD2727' width='200"'>
+<<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' width='200"'>
