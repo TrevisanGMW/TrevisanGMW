@@ -19,7 +19,7 @@
   <a href="https://discord.gg/AQ95J6YYZu">
   <img alt="discord server" title="Discord Server" src="https://img.shields.io/discord/728396699567128606?color=7289DA&label=DISCORD&logo=discord&style=for-the-badge&labelColor=5773d9&logoColor=ffffff"/>
   </a>
-  <br>
+  <br><br>
 </p>
 
 <h2 align='left'> 🚀 Quick Stats </h2>
@@ -32,7 +32,7 @@
 
 <h2 align='left'> 🔨 Technologies & Tools </h2>
 <p>
-
+<br>
 <img align='right' src='./media/octocat_bsod.png' width='200"'>
 
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
