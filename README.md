@@ -52,5 +52,12 @@ Visitor Badge:
 
 
 ## 🔧 Test:
-<<img align='left' src='http://github-readme-streak-stats.herokuapp.com?user=TrevisanGMW&theme=radical&sideNums=DD2727' height='150"'>
-<<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  <img align='left' src='http://github-readme-streak-stats.herokuapp.com?user=TrevisanGMW&theme=radical&sideNums=DD2727' height='150"'>
+  <!--<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>-->
+  <img align='left' src='  https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
+
+  </pre>
+</details>
