@@ -31,6 +31,7 @@ Visitor Badge:
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
 
+<br>
 
 ## 🔧 Technologies & Tools
 <!--<img align='right' src='./media/octocat_bsod.png' width='200"'>-->
