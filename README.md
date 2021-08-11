@@ -28,11 +28,11 @@ Visitor Badge:
 -->
 
 ## 🚀 Quick Stats
-<p>
+<div>
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
 
-</p>
+</div>
 
 ## 🔧 Technologies & Tools
 <p>
