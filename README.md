@@ -19,16 +19,18 @@
   <a href="https://discord.gg/AQ95J6YYZu">
   <img alt="discord server" title="Discord Server" src="https://img.shields.io/discord/728396699567128606?color=7289DA&label=DISCORD&logo=discord&style=for-the-badge&labelColor=5773d9&logoColor=ffffff"/>
   </a>
+  <br>
 </p>
 
-<h2 align='center'> 🚀 Quick Stats </h2>
+<h2 align='left'> 🚀 Quick Stats </h2>
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
 
 </div>
+<br>
 
-<h2 align='center'> 🔧 Technologies & Tools </h2>
+<h2 align='left'> 🔨 Technologies & Tools </h2>
 <p>
 
 <img align='right' src='./media/octocat_bsod.png' width='200"'>
@@ -41,6 +43,7 @@
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<br>
 </p>
 <p>
 <a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
@@ -50,6 +53,7 @@
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+<br>
 </p>
 <p>
 <a href="#"><img alt="Visitors Counter" src="https://visitor-badge.glitch.me/badge?page_id=trevisangmw&style=for-the-badge"></a>
