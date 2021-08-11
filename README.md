@@ -36,7 +36,8 @@ Visitor Badge:
 
 ## 🔧 Technologies & Tools
 <p>
-<!--<img align='right' src='./media/octocat_bsod.png' width='200"'>-->
+<!-- Temp -->
+<img align='right' src='./media/octocat_bsod.png' width='200"'>
 
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3A3ATrevisanGMW+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
