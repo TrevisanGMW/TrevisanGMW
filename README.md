@@ -5,14 +5,14 @@
   </a>
 
   <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw">
-  <img alt="youtube views" title="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/>
+  <img alt="youtube views" title="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%55960c&logo=youtube&style=for-the-badge&labelColor=488207"/>
   </a> 
 
   <a href="https://www.linkedin.com/in/trevisangmw/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://github.com/TrevisanGMW">
-  <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TrevisanGMW?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TrevisanGMW?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
 
   <!--<a href="https://www.buymeacoffee.com/TrevisanGMW"><img alt="buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
 
