@@ -24,9 +24,8 @@
 
 <h2 align='left'> 🚀 Quick Stats </h2>
 <div>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
-
+<img src='https://github-readme-stats.vercel.app/api?username=TrevisanGMW&show_icons=true&theme=radical&hide=contribs' height='150"'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisanGMW&layout=compact&theme=radical' height='150"'>
 </div>
 <br>
 
@@ -44,7 +43,6 @@
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Aqt"><img alt="SQL" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"></a>
-
 <br>
 </p>
 <p>
