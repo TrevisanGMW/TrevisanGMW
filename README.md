@@ -6,15 +6,13 @@
 
   <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw">
   <img alt="youtube views" title="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%55960c&logo=youtube&style=for-the-badge&labelColor=488207"/>
-  </a> 
+  </a>
 
   <a href="https://www.linkedin.com/in/trevisangmw/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://github.com/TrevisanGMW">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TrevisanGMW?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
-
-  <!--<a href="https://www.buymeacoffee.com/TrevisanGMW"><img alt="buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
 
   <a href="https://discord.gg/AQ95J6YYZu">
   <img alt="discord server" title="Discord Server" src="https://img.shields.io/discord/728396699567128606?color=7289DA&label=DISCORD&logo=discord&style=for-the-badge&labelColor=5773d9&logoColor=ffffff"/>
@@ -57,7 +55,5 @@
 <br>
 </p>
 <p>
-<a href="#"><img alt="Visitors Counter" src="https://visitor-badge.glitch.me/badge?page_id=trevisangmw&style=for-the-badge"></a>
+<a href="#"><img alt="Visitors Counter" src="https://api.visitorbadge.io/api/visitors?path=TrevisanGMW&countColor=%23263759"></a>
 </p>
-
-
