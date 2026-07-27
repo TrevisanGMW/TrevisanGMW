@@ -20,9 +20,26 @@
 
 <h2 align="left">&#x1F680; Active Open Source Projects</h2>
 
-| Project | Stars | Forks | Issues | Pull requests |
-| :-- | --: | --: | --: | --: |
-| [GT Tools](https://github.com/TrevisanGMW/gt-tools) | ![Stars](https://img.shields.io/github/stars/TrevisanGMW/gt-tools?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/TrevisanGMW/gt-tools?style=flat-square&label=) | ![Open issues](https://img.shields.io/github/issues/TrevisanGMW/gt-tools?style=flat-square&label=) | ![Open pull requests](https://img.shields.io/github/issues-pr/TrevisanGMW/gt-tools?style=flat-square&label=) |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Stars</th>
+      <th align="center">Forks</th>
+      <th align="center">Issues</th>
+      <th align="center">Pull requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><a href="https://github.com/TrevisanGMW/gt-tools">GT Tools</a></td>
+      <td align="center" valign="middle"><img alt="Stars" src="https://img.shields.io/github/stars/TrevisanGMW/gt-tools?style=flat-square&label="></td>
+      <td align="center" valign="middle"><img alt="Forks" src="https://img.shields.io/github/forks/TrevisanGMW/gt-tools?style=flat-square&label="></td>
+      <td align="center" valign="middle"><img alt="Open issues" src="https://img.shields.io/github/issues/TrevisanGMW/gt-tools?style=flat-square&label="></td>
+      <td align="center" valign="middle"><img alt="Open pull requests" src="https://img.shields.io/github/issues-pr/TrevisanGMW/gt-tools?style=flat-square&label="></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="left">&#x1F528; Technologies & Tools</h2>
 
