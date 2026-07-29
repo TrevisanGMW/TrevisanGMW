@@ -1,21 +1,11 @@
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Guilherme Trevisan</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw">
-    <img alt="YouTube" title="YouTube channel" src="https://img.shields.io/badge/YOUTUBE-E05D44?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:trevisangmw@gmail.com">
-    <img alt="Email" title="Email me" src="https://img.shields.io/badge/EMAIL-2E7D32?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/trevisangmw/">
-    <img alt="LinkedIn" title="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/TrevisanGMW">
-    <img alt="GitHub followers" title="GitHub profile" src="https://img.shields.io/github/followers/TrevisanGMW?style=for-the-badge&logo=github&label=GITHUB&labelColor=C79600&color=E1AD0E&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/AQ95J6YYZu">
-    <img alt="Discord members online" title="Discord server" src="https://img.shields.io/discord/728396699567128606?style=for-the-badge&logo=discord&label=DISCORD&labelColor=5865F2&color=404EED&logoColor=white"/>
-  </a>
+  <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw"><img alt="YouTube" title="YouTube channel" src="https://img.shields.io/badge/YOUTUBE-E05D44?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:trevisangmw@gmail.com"><img alt="Email" title="Email me" src="https://img.shields.io/badge/EMAIL-2E7D32?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/trevisangmw/"><img alt="LinkedIn" title="LinkedIn profile" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/TrevisanGMW"><img alt="GitHub followers" title="GitHub profile" src="https://img.shields.io/github/followers/TrevisanGMW?style=for-the-badge&logo=github&label=GITHUB&labelColor=C79600&color=E1AD0E&logoColor=white"/></a>
+  <a href="https://discord.gg/AQ95J6YYZu"><img alt="Discord members online" title="Discord server" src="https://img.shields.io/discord/728396699567128606?style=for-the-badge&logo=discord&label=DISCORD&labelColor=5865F2&color=404EED&logoColor=white"/></a>
 </p>
 
 <h2 align="left">&#x1F680; Active Open Source Projects</h2>
